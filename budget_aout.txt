@@ -1,0 +1,56 @@
+...WELCOME TO THE BUDGET CALCULATOR...
+By <team dot slash>.
+Here you can easily compute your monthly budget, total costs, leftover funds, and many other things.
+So let's start...
+Initially, we would like to know how much money you make monthly.
+
+Monthly Income: Rs. 50000.00
+
+Now we want know what your expenses are.
+How much you spend in your Housing ?
+1. Rent: Rs. 5000.00
+2. Maintenance: Rs. 5000.00
+3. Insurance: Rs. 500.00
+4. Utilities: Rs. 50.00
+5. Others: Rs. 500.00
+
+How much you spend in your Fooding ?
+1. Groceries: Rs. 5000.00
+2. Eating Out: Rs. 500.00
+3. Other: Rs. 500.00
+
+How much you spend in your Transportation ?
+1. Car Payment: Rs. 5000.00
+2. Car Insurance: Rs. 500.00
+3. Fuel: Rs. 500.00
+4. Maintenance: Rs. 500.00
+5. Parking/Tolls: Rs. 500.00
+6. Public Transportation: Rs. 500.00
+7. Other: Rs. 500.00
+
+How much you spend in your Education ?
+1. College Fees: Rs. 5000.00
+2. Tution: Rs. 500.00
+3. Student Loan: Rs. 500.00
+4. Other: Rs. 500.00
+
+How much you spend in your Family ?
+1. Mobile: Rs. 5000.00
+2. Cloth: Rs. 5000.00
+3. Entertainment: Rs. 500.00
+4. Household: Rs. 500.00
+5. Family Care: Rs. 50.00
+6. Child: Rs. 50.00
+7. Vacation: Rs. 50.00
+8. Debt: Rs. 50.00
+9. Others: Rs. 50.00
+
+How much you spend in your Heatlcare ?
+1. Medicine: Rs. 999.65
+2. Medical Insurance: Rs. 5.00
+3. Other: Rs. 55.00
+
+How much you spend in your Savings ?
+1. Emergency Fund: Rs. 55.00
+2. Investment: Rs. 555.00
+3. Other: Rs. 555.00

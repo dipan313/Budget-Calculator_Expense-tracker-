@@ -1,0 +1,34 @@
+...WELCOME TO THE BUDGET CALCULATOR...
+By <team dot slash>.
+Here you can easily compute your monthly budget, total costs, leftover funds, and many other things.
+So let's start...
+Initially, we would like to know how much money you make monthly.
+
+Monthly Income: Rs. 50000.00
+Your Total Monthly Expenses : Rs. 33779.65
+Total Housing Expenses: Rs. 11050.00
+ Percentage of Housing expenses depends on your total expenses: Rs. 32.71 %
+ Percentage of Housing expenses depends on your income: Rs. 22.10 %
+ Total Food Expenses: Rs. 6000.00
+ percentage of food expenses depends on total expenses: Rs. 17.76 %
+ percentage of food expenses depends on your income: Rs. 12.00 %
+ Total Transportation Expenses: Rs. 2500.00
+ percentage of Transportation expenses depends on total expenses: Rs. 7.40 %
+ percentage of Transportation expenses depends on your income: Rs. 5.00 %
+ Total Education Expenses: Rs. 1500.00
+ percentage of education expenses depends on total expenses: Rs. 4.44 %
+ percentage of education expenses depends on your income: Rs. 3.00 %
+ Total Family Expenses: Rs. 10505.00
+ percentage of family expenses depends on total expenses: Rs. 31.10 %
+ percentage of family expenses depends on your income: Rs. 21.01 %
+ Total Healthcare Expenses: Rs. 1059.65
+ percentage of healthcare expenses depends on total expenses: Rs. 3.14 %
+ percentage of healthcare expenses depends on your income: Rs. 2.12 %
+ Total Savings Expenses: Rs. 1165.00
+ percentage of savings expenses depends on total expenses: Rs. 3.45 %
+ percentage of savings expenses depends on your income: Rs. 2.33 %
+ 
+
+REGARDS FROM <team dot slash>.
+THANK YOU FOR USING OUR CALCULATOR.
+VISIT AGAIN.
